@@ -52,3 +52,4 @@ secure:
       - /admin/register
       - /admin/info
       - /admin/logout
+      - /demo/ping
